@@ -1,6 +1,6 @@
 # kubectl-lab
 
-Almost available as `kubectl get`.
+A kubectl plugin available like `kubectl get`.
 
 ## Installation
 
